@@ -69,9 +69,12 @@ Output:
 3. Avengers
 4. Thor
 5. Star Trek
+
 ## 🖼️ Home Page Preview
 
-![Home Page](cine1.png)
+<p align="center">
+  <img src="./cine1.png" width="800"/>
+</p>
 
 Home Page
 Search Feature
